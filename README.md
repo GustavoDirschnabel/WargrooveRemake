@@ -1,5 +1,5 @@
 # WargrooveRemake
-- ENGLISH:
+ENGLISH:
 (All files in the project are in pt-br)
 Made as a collaboration between Gustavo Dirschnabel and João Jandre Paraquetti for the Software Engineering I course ministered by Universidade Federal de Santa Catarina(UFSC)
 
@@ -15,7 +15,7 @@ After that, both clients must choose a commander and connect to the server using
 
 This project was made for non-profit purposes and all rights to Wargroove belong to Chucklefish ltd.
 
-- PORTUGUÊS-BRASIL:
+PORTUGUÊS-BRASIL:
 Feito como colaboração entre Gustavo Dirschnabel e João Jandre Paraquetti para a disciplina de Engenharia de Software I ministrada pela Universidade Federal de Santa Catarina(UFSC)
 
 Um projeto focado em reconstruir o jogo "Wargroove" de Chucklefish Games do zero como uma experiencia de aprendizado para modelagem de software utilizando UML2.
