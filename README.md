@@ -1,7 +1,7 @@
 # WargrooveRemake
 ENGLISH:
 (All files in the project are in pt-br)
-Made as a collaboration between Gustavo Dirschnabel and João Jandre Paraquetti for the Software Engineering I course ministered by Universidade Federal de Santa Catarina(UFSC)
+Made as a collaboration between Gustavo Dirschnabel and João Jandre Paraquetti for the Software Engineering 1 course ministered by Universidade Federal de Santa Catarina(UFSC)
 
 A project focused on rebuilding the game "Wargroove" by Chucklefish Games from scratch as a learning experience for software modeling using UML2.
 Version history in this repository represents advancements in the modelling process, ranging from the very first Class, Use Case and Interaction Overview diagrams, to the 30+ diagrams present in the release version that effectively represent the program's structure and behaviour.
@@ -16,7 +16,7 @@ After that, both clients must choose a commander and connect to the server using
 This project was made for non-profit purposes and all rights to Wargroove belong to Chucklefish ltd.
 
 PORTUGUÊS-BRASIL:
-Feito como colaboração entre Gustavo Dirschnabel e João Jandre Paraquetti para a disciplina de Engenharia de Software I ministrada pela Universidade Federal de Santa Catarina(UFSC)
+Feito como colaboração entre Gustavo Dirschnabel e João Jandre Paraquetti para a disciplina de Engenharia de Software 1 ministrada pela Universidade Federal de Santa Catarina(UFSC)
 
 Um projeto focado em reconstruir o jogo "Wargroove" de Chucklefish Games do zero como uma experiencia de aprendizado para modelagem de software utilizando UML2.
 Histórico de versões nesse repositório representa avanços no processo de modelagem, desde os primeiros diagramas de classe, casos de uso e visão geral de interação, até os +30 diagramas presentes na versão de lançamento que efetivamente representam a estrutura e comportamento do programa.
