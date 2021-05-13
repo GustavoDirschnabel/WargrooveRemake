@@ -1,0 +1,7 @@
+Alcance de Movimento: 5 (Marchante)
+Alcance de Ataque: 1
+Ataca e Revida unidades Aéreas e Terrestres.
+Pode Capturar estruturas neutras.
+Ação de Curar: Escolha uma posição em um raio de 2 quadrados, todas as unidades controladas no quadrado escolhido e nos seus 4 quadrados adjacentes recuperam 20% de PVs.
+Condição Crítica: Realizar o ataque de um quadrado que fornecer 3 ou mais de defesa.
+Fator Crítico: 1.5x

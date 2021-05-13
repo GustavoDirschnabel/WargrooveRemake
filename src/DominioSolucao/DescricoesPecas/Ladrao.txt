@@ -1,0 +1,5 @@
+Alcance de Movimento: 6 (Marchante) sem carga, 3 (Marchante) com carga.
+Não possui ataque.
+Ação de Roubar: Executada a partir de uma posição adjacente de uma estrutura inimiga, neutraliza esta estrutura e deixa o Ladrão com carga.
+Ação de Depositar: Executada a partir de uma posição adjacente a um esconderijo controlado e com um ladrão com carga, remove a carga do ladrão e adiciona o ouro roubado ao jogador atual.
+Um ladrão com carga, se derrotado, devolve todo o ouro roubado.

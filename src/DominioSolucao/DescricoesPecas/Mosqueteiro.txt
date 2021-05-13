@@ -1,0 +1,8 @@
+Alcance de Movimento: 4 (Marchante)
+Alcance de Ataque: 9
+Ataca unidades Terrestres.
+Pode Capturar estruturas neutras.
+Mosqueteiros só podem atacar se permanecerem no mesmo quadrado e se o inimigo não está em um quadrado do tipo floresta.
+Ação de Recarregar: Move o mosqueteiro até o quadrado selecionado e define munição como 3.
+Condição Crítica: Realizar o ataque com 1 de munição.
+Fator Crítico: 1.5x

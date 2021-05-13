@@ -1,0 +1,6 @@
+Alcance de Movimento: 3 (Marchante)
+Alcance de Ataque: 3
+Ataca e Revida unidades Aéreas e Terrestres.
+Pode Capturar estruturas neutras.
+Condição Crítica: Realizar o ataque se movimentando para posição que ocupa atualmente.
+Fator Crítico: 1.35x

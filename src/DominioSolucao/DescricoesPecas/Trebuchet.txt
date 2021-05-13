@@ -1,0 +1,5 @@
+Alcance de Movimento: 6 (Veículo)
+Alcance de Ataque: 2 a 5
+Ataca e Revida unidades Terrestres.
+Trebuchets só podem atacar se permanecerem no mesmo quadrado.
+Condição Crítica: Atacar um inimigo que encontra-se a 5 quadrados de distância.

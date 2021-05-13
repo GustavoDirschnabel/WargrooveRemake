@@ -1,0 +1,5 @@
+Alcance de Movimento: 5 (Marchante)
+Alcance de Ataque: 1
+Ataca e Revida unidades Terrestres.
+Condição Crítica: Atacar com uma quantidade de PVs menor ou igual a 40%.
+Fator Crítico: 2.5x

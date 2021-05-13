@@ -1,0 +1,5 @@
+Alcance de Movimento: 6 (Montado)
+Alcance de Ataque: 1
+Ataca e Revida unidades Terrestres.
+Condição Crítica: Realizar o ataque após se mover 6 quadrados em uma única direção.
+Fator Crítico: 1.5x

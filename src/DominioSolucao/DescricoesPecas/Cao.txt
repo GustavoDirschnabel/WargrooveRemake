@@ -1,0 +1,5 @@
+Alcance de Movimento: 5 (Marchante)
+Alcance de Ataque: 1
+Ataca e Revida unidades Terrestres.
+Condição Crítica: Realizar um ataque a uma peça inimiga que possui um outro cão controlado adjacente a ela.
+Fator Crítico: 1.5x

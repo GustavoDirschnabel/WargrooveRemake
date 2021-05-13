@@ -1,0 +1,5 @@
+Alcance de Movimento: 8 (Voador)
+Alcance de Ataque: 1
+Ataca e Revida unidades Terrestres.
+Condição Crítica: Atacar um inimigo que está em um quadrado do tipo Estrada.
+Fator Crítico: 2x

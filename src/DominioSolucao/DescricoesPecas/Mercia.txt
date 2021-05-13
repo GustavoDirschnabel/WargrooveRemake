@@ -1,0 +1,5 @@
+Ação de Groove: Recupera os PVs de todas as unidades aliadas por 50% a uma distância de 3 quadrados do destino de movimento.
+
+Velocidade de Carga de Groove: Rápido
+
+"A bem-intencionada, mas inexperiente Rainha Mercia está mais em casa no campo de batalha do que na sala do trono. Tendo acabado de herdar o governo do Reino de Cherrystone, ela anseia por deixar seu falecido pai e seu povo orgulhoso."

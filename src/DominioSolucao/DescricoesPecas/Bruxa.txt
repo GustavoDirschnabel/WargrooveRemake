@@ -1,0 +1,6 @@
+Alcance de Movimento: 7 (Voador)
+Alcance de Ataque: 1
+Ataca e Revida unidades Aéreas.
+Ação de Enfeitiçar: Retira 10% de PVs de todas as unidades inimigas em um alcance de 4 quadrados a partir do destino de movimento.
+Condição Crítica: A unidade inimiga atacada não tem nenhuma bruxa inimiga adjacente a ela.
+Fator Crítico: 2x

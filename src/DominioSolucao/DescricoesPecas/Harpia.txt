@@ -1,0 +1,5 @@
+Alcance de Movimento: 5 (Voador)
+Alcance de Ataque: 1
+Ataca e Revida unidades Aéreas e Terrestres.
+Condição Crítica: Realizar o ataque de um quadrado que possui o tipo de terreno montanha.
+Fator Crítico: 1.25x

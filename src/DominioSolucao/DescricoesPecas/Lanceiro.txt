@@ -1,0 +1,6 @@
+Alcance de Movimento: 3 (Marchante)
+Alcance de Ataque: 1
+Ataca e Revida unidades Terrestres.
+Pode Capturar estruturas neutras.
+Condição Crítica: Realizar o ataque de uma posição que esteja adjacente a um outro lanceiro controlado.
+Fator Crítico: 1.5x

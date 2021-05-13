@@ -1,0 +1,6 @@
+Alcance de Movimento: 4 (Marchante)
+Alcance de Ataque: 1
+Ataca e Revida unidades Terrestres.
+Pode Capturar estruturas neutras.
+Condição Crítica: Realizar o ataque de uma posição que esteja adjacente ao comandante controlado.
+Fator Crítico: 1.5x

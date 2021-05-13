@@ -1,0 +1,5 @@
+Velocidade de Carga de Groove: Bem Rápido
+
+Ação de Groove: Cria um soldado em um dos 4 quadrados adjacentes ao destino. Este soldado está não exausto e pode ainda fazer a sua ação.
+
+"Valder é o governante de Felheim e o portador da Manopla de Fell. Uma combinação de intelecto aguçado, habilidade marcial consumada e magia potente o torna um inimigo singularmente capaz e intimidador."

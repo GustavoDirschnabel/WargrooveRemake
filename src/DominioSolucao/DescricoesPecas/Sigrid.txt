@@ -1,0 +1,5 @@
+Ação de Groove: Derrota a Unidade selecionada e transfere todos os PVs dela a Sigrid. Desabilitado contra comandantes.
+
+Velocidade de Carga de Groove: Médio
+
+"Sigrid é um Alto Vampiro, um ser antigo de poder prodigioso. Ela serve Valder, Senhor de Felheim, e ele a considera seu subordinado mais confiável. Como os ermos gelados de sua terra natal, Sigrid é fria e brutal."
