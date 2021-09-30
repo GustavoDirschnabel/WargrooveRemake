@@ -3,7 +3,7 @@ ENGLISH:
 (All files in the project are in pt-br)
 Made as a collaboration between Gustavo Dirschnabel and João Jandre Paraquetti for the Software Engineering 1 course ministered by Universidade Federal de Santa Catarina(UFSC)
 
-A project focused on rebuilding the game "Wargroove" by Chucklefish Games from scratch as a learning experience for software modeling using UML2.
+A project focused on rebuilding the game "Wargroove" by Chucklefish Games from scratch as a learning experience for software modeling using UML 2.
 Version history in this repository represents advancements in the modelling process, ranging from the very first Class, Use Case and Interaction Overview diagrams, to the 30+ diagrams present in the release version that effectively represent the program's structure and behaviour.
 
 The release branch contains a playable demo that features a single map, 4 different commander characters, and most of the Wargroove unit types. It works on a Client-Server Model, where the server is only responsible for packaging and sending player actions from one to the other, while game state is kept locally in the client. To achieve this, we use the NetgamesNRT server by Leonardo de Souza Brasil.
